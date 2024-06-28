@@ -46,7 +46,7 @@ st.sidebar.markdown("""
 
 st.sidebar.header("👥 Group Members")
 st.sidebar.markdown("""
-- Abdulmunim Jundurahman (GL)
+- Abdulmunim Jundurahman
 - Fethiya Safi
 - Fuad Mohammed
 - Salman Ali
