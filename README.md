@@ -35,6 +35,15 @@ This project is the final assignment for the Fundamentals of AI Course at Addis 
 │ ├── crop_disease_model.pth
 │ ├── crop-recommendation-model.joblib
 │ └── fertilizer-recommendation-model.joblib
+├── notebooks/
+│ ├── crop-disease-detection/
+│ │ └── plant_disease_classification.ipynb
+│ ├── crop-recommendation/
+│ │ ├── crop_recommendation.ipynb
+│ │ └── data.csv
+│ ├── fertilizer-recommendation/
+│ │ ├── fertilizer_recommendation.ipynb
+│ │ └── data.csv
 ├── utils.py
 ├── main.py
 ├── requirements.txt
