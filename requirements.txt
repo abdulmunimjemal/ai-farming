@@ -5,5 +5,5 @@ torchvision
 Pillow
 joblib
 streamlit
-sklearn
+scikit-learn
 matplotlib
